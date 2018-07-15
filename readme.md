@@ -1,7 +1,7 @@
 # Description
 # Hardware
 ###### HC-05 Bluetooth module
-DRV8833
+###### DRV8833
 [![drv8833](images/drv8833.jpg)](https://ebldc.com/?p=264)
 
 
