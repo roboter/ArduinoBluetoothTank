@@ -1,1 +1,8 @@
 /.pioenvs
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+/ArduinoBlueToothTank/ArduinoBlueToothTank.ino.cpp
+
+*.yml

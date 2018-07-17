@@ -1,0 +1,3 @@
+[submodule "lib/advancedSerial"]
+	path = lib/advancedSerial
+	url = https://github.com/klenov/advancedSerial.git
