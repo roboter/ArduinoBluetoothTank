@@ -15,6 +15,7 @@ Can be used to all types of tracks, that have 2 `motors`.
 Inproved version that use `drv8833` and works with `bluetooth arduino track`
 1. Use `PWM` for speed control
 2. Stops motor after move. This approach mean that you have to press move keys constantly.
+3. https://sites.google.com/site/bluetoothrccar/home/6-Joystick-Control
 
 ###### L298N
 original code with L298N.
